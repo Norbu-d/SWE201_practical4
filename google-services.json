@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195631453941",
+    "project_id": "push-notifications-demo-a9e59",
+    "storage_bucket": "push-notifications-demo-a9e59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195631453941:android:a04de8da6cb17f0cd497bc",
+        "android_client_info": {
+          "package_name": "bt.edu.rub.cst.s02230293.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOO8Cz4sXXsrbKo5cvDDsEeqnruAicQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

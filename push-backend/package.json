@@ -1,0 +1,8 @@
+{
+  "name": "push-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "expo-server-sdk": "^3.10.0"
+  }
+}
